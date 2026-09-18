@@ -3,7 +3,12 @@ Using an E-Commerce Dataset to evaluate insights on E-Commerce Customer Retentio
 
 ---
 
-## E-Commerce Dashboard
+## Dashboard Preview
+![E-Commerce Customer Retention Dashboard](./Images/E-Commerce_Dashboard.png)
+
+---
+
+## Tech Stack
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
