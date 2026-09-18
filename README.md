@@ -4,7 +4,7 @@ Using an E-Commerce Dataset to evaluate insights on E-Commerce Customer Retentio
 ---
 
 ## Dashboard Preview
-![E-Commerce Customer Retention Dashboard](./Images/E-Commerce_Dashboard.png)
+![Dashboard Preview](./E-Commerce_Dashboard.png)
 
 ---
 
