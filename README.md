@@ -35,7 +35,7 @@ The project addresses key operational and growth questions:
 - **Database Engine:** Microsoft SQL Server Management Studio (SSMS)
 - **Database:** `[Database of kaggle datasets].[dbo].[E-CommerceData]`
 - **Transformation Layer:** 5 Custom SQL Analytical Views (`dbo.Question1_TopUKCustomers_vw` through `dbo.Question5_CancellationAnalysis_vw`)
-- **Data Visualization & UX:** Power BI Desktop (Blue Tech design system, F-pattern dashboard layout)
+- **Data Visualization:** Power BI Desktop
 - **Analytical Measures:** DAX (Data Analysis Expressions) for retention percentages and dynamic aggregations
 
 ---
